@@ -1,3 +1,4 @@
+Funcionando aqui: <a href="https://landing-page-react-redux-jp827lzxm-rickktips-projects.vercel.app/" target="_blank">https://landing-page-react-redux-jp827lzxm-rickktips-projects.vercel.app/</a>
 # Landing page dinâmica em React e Redux
 
 Teste que fiz para uma grande empresa da Área da saúde, mas que a entrevistadora só sumiu mesmo. rsrs.
